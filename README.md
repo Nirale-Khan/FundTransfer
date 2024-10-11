@@ -5,7 +5,6 @@ This is a simple Banking System project developed using Java and follows the pri
 Features
 
 Create Account: Users can create a new bank account by providing necessary details.
-
 Delete Account: Users can delete their existing bank accounts.
 
 6-Digit PIN: A 6-digit secure PIN is generated during account creation, which can be used for further operations.
