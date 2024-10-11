@@ -1,4 +1,4 @@
-Banking System Project
+Fund Transfer ( Banking System ) 
 
 This is a simple Banking System project developed using Java and follows the principles of Object-Oriented Programming (OOP). The project simulates a basic banking system where users can perform various actions like creating an account, deleting an account, managing PINs, and transferring money.
 
