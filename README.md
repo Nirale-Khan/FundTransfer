@@ -1,8 +1,8 @@
-Fund Transfer ( Banking System ) 
+# Fund Transfer ( Banking System ) 
 
 This is a simple Banking System project developed using Java and follows the principles of Object-Oriented Programming (OOP). The project simulates a basic banking system where users can perform various actions like creating an account, deleting an account, managing PINs, and transferring money.
 
-Features
+# Features
 
 Create Account:  Users can create a new bank account by providing necessary details.
 
@@ -18,7 +18,7 @@ Check Balance:  Users can view their current account balance.
 
 Deposit/Withdraw Money:  Users can deposit or withdraw money from their accounts.
 
-Project Structure and OOP Concepts Used
+# Project Structure and OOP Concepts Used
 
 Class-Based Design:  The project uses a class-based approach to model various entities such as Bank, Account, Transaction, etc.
 
